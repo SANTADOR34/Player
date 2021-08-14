@@ -1,0 +1,292 @@
+[Controls]
+FastTurn = 3000
+InvertMouse			= 0
+MouseLook			= 9000
+InputRate			= 900
+Sensitivity			= 12
+NormalTurn			= 9000
+LookUp				= 9000
+VehicleTurnRate		= 100
+AutoCenter			= 0
+UseJoystick			= 0
+Axis0 = 2
+Axis1 = 1
+Axis2 = 0
+Axis3 = 0
+Axis4 = 0
+Axis5 = 0
+POV0 = 2
+POV1 = 1
+POV2 = 0
+POV3 = 0
+GammaSliderDefault = 9
+
+
+
+[Bindings]
+Recording = "##67@ @ "
+Graffiti = "##35@ @ "
+InGameWeaponView = "##41@ @ "
+RunLock = " @ @ "
+Number_0 = " @ @ "
+Forward = "##17@ @ "
+Backward = "##31@ @ "
+StrafeLeft = "##30@ @ "
+StrafeRight = "##32@ @ "
+Left = "##203@ @ "
+Right = "##205@ @ "
+Strafe = "##56@ @ "
+Speed = "##42@ @ "
+Jump = "##57@ @ "
+Duck = "##29@ @ "
+TurnAround = "##14@ @ "
+LeanLeft = "##47@ @ "
+LeanRight = "##18@ @ "
+DuckLock = "##47@ @ "
+Fire = " @##3@ "
+Activate = " @##4@ "
+Reload = "##19@ @ "
+NextAmmo = "##33@ @ "
+NextWeapon = "##47@ @ "
+PrevWeapon = "##47@ @ "
+HolsterWeapon = "##35@ @ "
+LastWeapon = "##16@ @ "
+MoveBody = "##34@ @ "
+Flashlight = "##38@ @ "
+LookUp = "##200@ @ "
+LookDown = "##208@ @ "
+ZoomIn = "##47@ @ "
+CenterView = "##207@ @ "
+Inventory = "##50@ @ "
+ViewKeys = "##49@ @ "
+ViewIntel = "##23@ @ "
+Score = "##15@ @ "
+Mission = "##25@ @ "
+CompassToggle = "##47@ @ "
+Radio = "##47@ @ "
+SendMessage = "##28@ @ "
+NormalMessage = "##59@ @ "
+TeamMessage = "##60@ @ "
+PrideMessage = "##62@ @ "
+ChangeRifle = "##2@ @ "
+ChangePistol = "##3@ @ "
+ChangeCharacter = "##4@ @ "
+ChangeGrenade = "##5@ @ "
+ChangeBomb = "##6@ @ "
+Number_1 = "##2@ @ "
+Number_2 = "##3@ @ "
+Number_3 = "##4@ @ "
+Number_4 = "##5@ @ "
+Number_5 = "##6@ @ "
+Number_6 = "##7@ @ "
+Number_7 = "##8@ @ "
+Number_8 = "##9@ @ "
+Number_9 = "##10@ @ "
+Number_10 = "##11@ @ "
+RadioMessage1 = "##44@ @ "
+RadioMessage2 = "##45@ @ "
+RadioMessage3 = "##46@ @ "
+MouseSensitiveUp = "##27@ @ "
+MouseSensitiveDown = "##26@ @ "
+ScreenGammaUp = "##40@ @ "
+ScreenGammaDown = "##39@ @ "
+EffectVolumeUp = " @#U@ "
+EffectVolumeDown = " @#D@ "
+MakeScreenShot = "##66@ @ "
+Messenger = "##63@ @ "
+Yes = "##21@ @ "
+No = "##49@ @ "
+QuickWeapon1 = "##52@ @ "
+QuickWeapon2 = "##51@ @ "
+WolfSteamPackUse = "##33@ @ "
+WolfMedicalKitUse = "##20@ @ "
+MultiWeaponChange = "##48@ @ "
+
+[Game]
+MarkType = 2
+IsFieldListPVE = 0
+ScreenGlow = 0
+SPRadar = TRUE
+ShadowLevel = 0
+ChattingView0 = 1
+ChattingView1 = 1
+ChattingView2 = 1
+ChattingView3 = 1
+ChattingView4 = 1
+ChattingView5 = 1
+ChattingView6 = 1
+ChattingView7 = 1
+ChattingView8 = 1
+CrosshairAlpha = 255
+CrosshairRed = 191
+CrosshairGreen = 0
+CrosshairBlue = 191
+CrosshairDynamic = 1
+UseCrosshair = 1
+CrosshairStyle = 0
+Subtitles = 0
+FadeBodies = 0
+HUDLayout = 0
+MessageDur = 10
+HeadBob = 0
+Difficulty = 1
+AlwaysRun = 1
+Gore = 0
+WeaponSway = 1
+AutoWeaponSwitch = 1
+LoadScreenTips = 1
+VehicleContour = 1
+MinimapType = 0
+GrenadeAngle = 20
+GrenadeDefAngle = 20
+BanAddfriend = 0
+BanBuddyChat = 1
+BanGameInvite = 1
+Animation = 0
+
+
+
+[Sound]
+defaultsoundmultiplier = 0.750000f
+weaponssoundmultiplier = 1.000000f
+speechsoundmultiplier = 1.000000f
+MusicQuality = 0
+sound16bit = 1
+musicvolume = -2500
+soundvolume = 25
+battlevolume = 0
+decisionvolume = 0
+presoundvolume = 12
+premusicvolume = 1250
+prebattlevolume = 50
+predecisionvolume = 50
+
+[Multiplayer]
+PlayerModel = 0
+PlayerName = "Player"
+ScmdPassword = "Password"
+Guid = "C24C7DB8-7BE2-4A2C-8B4-762C2398669F"
+AmmoRestrictions = ""
+Dedicated = FALSE
+DMPlayerModel = 0
+MPRadar = TRUE
+ClientPort = 27888
+GameType = 6
+GearRestrictions = ""
+Password = "Password"
+WeaponRestrictions = ""
+AllowScmdCommands = FALSE
+LANOnly = TRUE
+MaxPlayers = 4
+Port = 27888
+UsePassword = FALSE
+MPDifficulty = 1
+SkillAllowance = 10000
+FriendlyFire = TRUE
+MPPlayerDiffFactor = 0.100000f
+BandwidthClient = 3
+BandwidthServer = 3
+BandwidthServerCustom = 1500
+BandwidthClientCustom = 1500
+PlayerSkills0 = 1
+PlayerSkills1 = 1
+PlayerSkills2 = 2
+PlayerSkills3 = 2
+PlayerSkills4 = 1
+PlayerSkills5 = 2
+PlayerSkills6 = 2
+PlayerSkills7 = 1
+PlayerSkills8 = -1
+
+[NetWork]
+NetWorkStats = 0
+
+
+
+[Version]
+VersionNumber = 124
+
+[Cooperative]
+CampaignName = ".default"
+SessionName = ""
+MaxPlayers = 4
+MPPlayerDiffFactor = 0.100000f
+UseSkills = TRUE
+FriendlyFire = TRUE
+MPDifficulty = 1
+
+[Settings]
+DynamicLight = 0
+EnvironmentalDetail = 0
+MusicActive = 1
+PolyGridFresnel = 0
+ShadowDetail = 0
+PolyGridBumpmap = 0
+ShellCasings = 1
+EnvironmentBumpMapping = 0
+EnvironmentMapping = 1
+FXDetail = 0
+AnisotropicFiltering = 0
+DetailLevel = 0
+DetailTextures = 1
+PreCacheAssets = 0
+SoundQuality = 1
+TrilinearFiltering = 0
+Tracers = 1
+TripleBuffering = 1
+MusicQuality = 0
+
+[Deathmatch]
+CampaignName = ".default"
+SessionName = ""
+MaxPlayers = 4
+TimeLimit = 10
+RunSpeed = 130
+Rounds = 1
+ScoreLimit = 25
+FragScore = 2
+TagScore = 1
+
+[Doomsday]
+CampaignName = ".default"
+ReviveScore = 1
+SessionName = ""
+Team1Name = "Özel Versiyon Red"
+MaxPlayers = 16
+NumTeams = 2
+TimeLimit = 20
+RunSpeed = 130
+FriendlyFire = TRUE
+LightPiecePlacedScore = 3
+Rounds = 1
+FragScore = 2
+HeavyPiecePlacedScore = 5
+PieceRemovedScore = 2
+Team0Model = 1
+Team0Name = "Özel Versiyon Blue"
+DeviceCompletedScore = 10
+Team1Model = 8
+TagScore = 1
+
+[TeamDM]
+CampaignName = ".default"
+ReviveScore = 1
+SessionName = ""
+Team1Name = "Red"
+MaxPlayers = 16
+NumTeams = 2
+TimeLimit = 10
+RunSpeed = 130
+FriendlyFire = TRUE
+Rounds = 1
+ScoreLimit = 100
+FragScore = 2
+Team0Model = 0
+Team0Name = "Blue"
+Team1Model = 8
+TagScore = 1
+
+[Details]
+RegularTex = 1
+LargeTex = 1
+XLargeTex = 2
